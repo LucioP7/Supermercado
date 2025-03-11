@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SupermercadoApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+dfb97beed7f1fd613f2273bf06a1e66808c2c5a7")]
 [assembly: System.Reflection.AssemblyProductAttribute("SupermercadoApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SupermercadoApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
