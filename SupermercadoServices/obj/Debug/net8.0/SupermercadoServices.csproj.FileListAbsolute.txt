@@ -1,0 +1,13 @@
+D:\Supermercado\SupermercadoServices\obj\Debug\net8.0\SupermercadoServices.Properties.Resources.resources
+D:\Supermercado\SupermercadoServices\obj\Debug\net8.0\SupermercadoServices.csproj.GenerateResource.cache
+D:\Supermercado\SupermercadoServices\obj\Debug\net8.0\SupermercadoServices.GeneratedMSBuildEditorConfig.editorconfig
+D:\Supermercado\SupermercadoServices\obj\Debug\net8.0\SupermercadoServices.AssemblyInfoInputs.cache
+D:\Supermercado\SupermercadoServices\obj\Debug\net8.0\SupermercadoServices.AssemblyInfo.cs
+D:\Supermercado\SupermercadoServices\obj\Debug\net8.0\SupermercadoServices.csproj.CoreCompileInputs.cache
+D:\Supermercado\SupermercadoServices\bin\Debug\net8.0\SupermercadoServices.deps.json
+D:\Supermercado\SupermercadoServices\bin\Debug\net8.0\SupermercadoServices.dll
+D:\Supermercado\SupermercadoServices\bin\Debug\net8.0\SupermercadoServices.pdb
+D:\Supermercado\SupermercadoServices\obj\Debug\net8.0\SupermercadoServices.dll
+D:\Supermercado\SupermercadoServices\obj\Debug\net8.0\refint\SupermercadoServices.dll
+D:\Supermercado\SupermercadoServices\obj\Debug\net8.0\SupermercadoServices.pdb
+D:\Supermercado\SupermercadoServices\obj\Debug\net8.0\ref\SupermercadoServices.dll

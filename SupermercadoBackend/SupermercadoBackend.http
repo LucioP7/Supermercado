@@ -1,0 +1,6 @@
+@SupermercadoBackend_HostAddress = http://localhost:5255
+
+GET {{SupermercadoBackend_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
