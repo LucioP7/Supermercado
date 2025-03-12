@@ -15,12 +15,19 @@
             <Entry Placeholder="Nombre" Text="{Binding Nombre}" BackgroundColor="White" />
             <Entry Placeholder="Apellido" Text="{Binding Apellido}" BackgroundColor="White" />
             <Entry Placeholder="DNI" Text="{Binding Dni}" BackgroundColor="White" Keyboard="Numeric"/>
+            <Entry Placeholder="Teléfono" Text="{Binding Telefonos}" BackgroundColor="White" Keyboard="Telephone"/>
             <Entry Placeholder="Email" Text="{Binding Mail}" BackgroundColor="White" Keyboard="Email" />
-            <Entry Placeholder="Email" Text="{Binding Telefonos}" BackgroundColor="White" Keyboard="Telephone" />
             <Entry Placeholder="Contraseña" Text="{Binding Password}" BackgroundColor="White" IsPassword="True" />
             <Entry Placeholder="Verificar Contraseña" Text="{Binding VerifyPassword}" BackgroundColor="White" IsPassword="True" />
 
+            <!-- Picker para seleccionar localidad -->
+            <Picker Title="Seleccionar Localidad"
+                    ItemsSource="{Binding Localidades}"
+                    ItemDisplayBinding="{Binding Nombre}"
+                    SelectedItem="{Binding LocalidadSeleccionada}" />
+
             <Button Text="Registrarse" Command="{Binding RegistrarseCommand}" BackgroundColor="White" TextColor="Black" />
+            <Button Text="Volver" Clicked="OnBackClicked" BackgroundColor="White" TextColor="Black" />
         </StackLayout>
     </ScrollView>
 </ContentPage>

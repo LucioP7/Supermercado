@@ -21,5 +21,16 @@ namespace SupermercadoServices.Services
             }
             return JsonSerializer.Deserialize<List<Localidad>>(content, options); ;
         }
+
+        public async Task<List<Localidad>?> ObtenerTodasLocalidadesAsync()
+        {
+            var response = await client.GetAsync($"{_endpoint}/localidades");
+            var content = await response.Content.ReadAsStringAsync();
+            if (!response.IsSuccessStatusCode)
+            {
+                return null;
+            }
+            return JsonSerializer.Deserialize<List<Localidad>>(content, options);
+        }
     }
 }
