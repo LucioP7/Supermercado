@@ -11,3 +11,4 @@ D:\Supermercado\SupermercadoServices\obj\Debug\net8.0\SupermercadoServices.dll
 D:\Supermercado\SupermercadoServices\obj\Debug\net8.0\refint\SupermercadoServices.dll
 D:\Supermercado\SupermercadoServices\obj\Debug\net8.0\SupermercadoServices.pdb
 D:\Supermercado\SupermercadoServices\obj\Debug\net8.0\ref\SupermercadoServices.dll
+D:\Supermercado\SupermercadoServices\obj\Debug\net8.0\SupermercadoServices.sourcelink.json

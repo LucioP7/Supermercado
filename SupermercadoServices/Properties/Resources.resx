@@ -118,10 +118,10 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="Remoto" xml:space="preserve">
-    <value>false</value>
+    <value>true</value>
   </data>
   <data name="UrlApi" xml:space="preserve">
-    <value>b</value>
+    <value>https://supermercado7.azurewebsites.net/api/</value>
   </data>
   <data name="UrlApiLocal" xml:space="preserve">
     <value>https://localhost:7230</value>

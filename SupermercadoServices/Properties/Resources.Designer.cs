@@ -70,7 +70,7 @@ namespace SupermercadoServices.Properties {
         }
         
         /// <summary>
-        ///   Busca una cadena traducida similar a b.
+        ///   Busca una cadena traducida similar a https://supermercado7.azurewebsites.net/api/.
         /// </summary>
         internal static string UrlApi {
             get {

@@ -242,4 +242,4 @@ D:\Supermercado\SupermercadoBackend\obj\Debug\net8.0\ref\SupermercadoBackend.dll
 D:\Supermercado\SupermercadoBackend\obj\Debug\net8.0\SupermercadoBackend.MvcApplicationPartsAssemblyInfo.cs
 D:\Supermercado\SupermercadoBackend\obj\Debug\net8.0\SupermercadoBackend.RazorAssemblyInfo.cache
 D:\Supermercado\SupermercadoBackend\obj\Debug\net8.0\SupermercadoBackend.RazorAssemblyInfo.cs
-D:\Supermercado\SupermercadoBackend\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\Supermercado\SupermercadoBackend\obj\Debug\net8.0\SupermercadoBackend.sourcelink.json

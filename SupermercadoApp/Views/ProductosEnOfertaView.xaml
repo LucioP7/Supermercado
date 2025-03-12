@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:viewModels="clr-namespace:SupermercadoApp.ViewModels"
+             x:Class="SupermercadoApp.Views.ProductosEnOfertaView"
+             BackgroundColor="Red">
+    <ContentPage.BindingContext>
+        <viewModels:ProductosEnOfertaViewModel />
+    </ContentPage.BindingContext>
+
+    <StackLayout Padding="20">
+        <Label Text="Productos en Oferta" 
+               FontSize="24" 
+               TextColor="White" 
+               FontAttributes="Bold" />
+
+        <Label Text="Saldo de Puntos:"
+               FontSize="18" 
+               TextColor="White" />
+        <Label Text="{Binding SaldoPuntos}"
+               FontSize="18" 
+               TextColor="White" />
+
+        <CollectionView ItemsSource="{Binding Productos}">
+            <CollectionView.ItemTemplate>
+                <DataTemplate>
+                    <Frame BackgroundColor="White" Padding="10" CornerRadius="10">
+                        <StackLayout>
+                            <Label Text="{Binding Nombre}" FontSize="20" TextColor="Black" />
+                            <Label Text="Precio: ${Binding Precio}" FontSize="16" TextColor="Black" />
+                            <Label Text="Precio con Puntos: ${Binding PrecioConPuntos}" FontSize="16" TextColor="Green" />
+                        </StackLayout>
+                    </Frame>
+                </DataTemplate>
+            </CollectionView.ItemTemplate>
+        </CollectionView>
+    </StackLayout>
+</ContentPage>

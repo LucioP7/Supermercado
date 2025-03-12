@@ -1,0 +1,1 @@
+D:\Supermercado\SupermercadoApp\SupermercadoApp.csproj;x64

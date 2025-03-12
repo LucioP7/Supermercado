@@ -1,7 +1,32 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\Supermercado\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3E8DC73D-B602-461F-9557-514671DE0997}|SupermercadoApp\\SupermercadoApp.csproj|d:\\supermercado\\supermercadoapp\\viewmodels\\registrarseviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E8DC73D-B602-461F-9557-514671DE0997}|SupermercadoApp\\SupermercadoApp.csproj|solutionrelative:supermercadoapp\\viewmodels\\registrarseviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{245416B9-276E-4F17-B6F9-872EB0CFC4D4}|SupermercadoServices\\SupermercadoServices.csproj|d:\\supermercado\\supermercadoservices\\properties\\resources.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{245416B9-276E-4F17-B6F9-872EB0CFC4D4}|SupermercadoServices\\SupermercadoServices.csproj|solutionrelative:supermercadoservices\\properties\\resources.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E8DC73D-B602-461F-9557-514671DE0997}|SupermercadoApp\\SupermercadoApp.csproj|d:\\supermercado\\supermercadoapp\\views\\registrarseview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3E8DC73D-B602-461F-9557-514671DE0997}|SupermercadoApp\\SupermercadoApp.csproj|solutionrelative:supermercadoapp\\views\\registrarseview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E8DC73D-B602-461F-9557-514671DE0997}|SupermercadoApp\\SupermercadoApp.csproj|d:\\supermercado\\supermercadoapp\\viewmodels\\iniciarsesionviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E8DC73D-B602-461F-9557-514671DE0997}|SupermercadoApp\\SupermercadoApp.csproj|solutionrelative:supermercadoapp\\viewmodels\\iniciarsesionviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E8DC73D-B602-461F-9557-514671DE0997}|SupermercadoApp\\SupermercadoApp.csproj|d:\\supermercado\\supermercadoapp\\views\\productosenofertaview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3E8DC73D-B602-461F-9557-514671DE0997}|SupermercadoApp\\SupermercadoApp.csproj|solutionrelative:supermercadoapp\\views\\productosenofertaview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E8DC73D-B602-461F-9557-514671DE0997}|SupermercadoApp\\SupermercadoApp.csproj|d:\\supermercado\\supermercadoapp\\viewmodels\\productosenofertaviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E8DC73D-B602-461F-9557-514671DE0997}|SupermercadoApp\\SupermercadoApp.csproj|solutionrelative:supermercadoapp\\viewmodels\\productosenofertaviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,12 +34,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 11,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
@@ -50,6 +71,87 @@
             {
               "$type": "Bookmark",
               "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Resources.resx",
+              "DocumentMoniker": "D:\\Supermercado\\SupermercadoServices\\Properties\\Resources.resx",
+              "RelativeDocumentMoniker": "SupermercadoServices\\Properties\\Resources.resx",
+              "ToolTip": "D:\\Supermercado\\SupermercadoServices\\Properties\\Resources.resx",
+              "RelativeToolTip": "SupermercadoServices\\Properties\\Resources.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-03-12T09:02:08.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RegistrarseViewModel.cs",
+              "DocumentMoniker": "D:\\Supermercado\\SupermercadoApp\\ViewModels\\RegistrarseViewModel.cs",
+              "RelativeDocumentMoniker": "SupermercadoApp\\ViewModels\\RegistrarseViewModel.cs",
+              "ToolTip": "D:\\Supermercado\\SupermercadoApp\\ViewModels\\RegistrarseViewModel.cs",
+              "RelativeToolTip": "SupermercadoApp\\ViewModels\\RegistrarseViewModel.cs",
+              "ViewState": "AgIAAFkAAAAAAAAAAAAwwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T09:00:53.32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IniciarSesionViewModel.cs",
+              "DocumentMoniker": "D:\\Supermercado\\SupermercadoApp\\ViewModels\\IniciarSesionViewModel.cs",
+              "RelativeDocumentMoniker": "SupermercadoApp\\ViewModels\\IniciarSesionViewModel.cs",
+              "ToolTip": "D:\\Supermercado\\SupermercadoApp\\ViewModels\\IniciarSesionViewModel.cs",
+              "RelativeToolTip": "SupermercadoApp\\ViewModels\\IniciarSesionViewModel.cs",
+              "ViewState": "AgIAAGYAAAAAAAAAAAAYwHAAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T08:30:55.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RegistrarseView.xaml",
+              "DocumentMoniker": "D:\\Supermercado\\SupermercadoApp\\Views\\RegistrarseView.xaml",
+              "RelativeDocumentMoniker": "SupermercadoApp\\Views\\RegistrarseView.xaml",
+              "ToolTip": "D:\\Supermercado\\SupermercadoApp\\Views\\RegistrarseView.xaml",
+              "RelativeToolTip": "SupermercadoApp\\Views\\RegistrarseView.xaml",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAUwBYAAAB6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-12T08:49:47.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductosEnOfertaView.xaml",
+              "DocumentMoniker": "D:\\Supermercado\\SupermercadoApp\\Views\\ProductosEnOfertaView.xaml",
+              "RelativeDocumentMoniker": "SupermercadoApp\\Views\\ProductosEnOfertaView.xaml",
+              "ToolTip": "D:\\Supermercado\\SupermercadoApp\\Views\\ProductosEnOfertaView.xaml",
+              "RelativeToolTip": "SupermercadoApp\\Views\\ProductosEnOfertaView.xaml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-12T08:31:04.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductosEnOfertaViewModel.cs",
+              "DocumentMoniker": "D:\\Supermercado\\SupermercadoApp\\ViewModels\\ProductosEnOfertaViewModel.cs",
+              "RelativeDocumentMoniker": "SupermercadoApp\\ViewModels\\ProductosEnOfertaViewModel.cs",
+              "ToolTip": "D:\\Supermercado\\SupermercadoApp\\ViewModels\\ProductosEnOfertaViewModel.cs",
+              "RelativeToolTip": "SupermercadoApp\\ViewModels\\ProductosEnOfertaViewModel.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAwwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T08:30:55.402Z",
+              "EditorCaption": ""
             }
           ]
         }

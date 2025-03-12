@@ -1,4 +1,8 @@
-﻿namespace SupermercadoApp
+﻿using CommunityToolkit.Mvvm.Messaging;
+using SupermercadoApp.Class;
+using SupermercadoApp.Views;
+
+namespace SupermercadoApp
 {
     public partial class App : Application
     {
@@ -6,7 +10,11 @@
         {
             InitializeComponent();
 
+            //MainPage = new AppShell();
             MainPage = new AppShell();
+           
         }
+
+        
     }
 }

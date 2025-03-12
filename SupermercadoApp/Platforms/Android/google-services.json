@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1032133369511",
+    "project_id": "supermercadop7",
+    "storage_bucket": "supermercadop7.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1032133369511:android:43715876c53795cd5b4582",
+        "android_client_info": {
+          "package_name": "com.companyname.supermercadoapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4FShAu5z23hPIkqETUWM2n0wx9j_w2cs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

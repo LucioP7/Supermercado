@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:viewModels="clr-namespace:SupermercadoApp.ViewModels"
+             x:Class="SupermercadoApp.Views.RegistrarseView"
+             BackgroundColor="Red">
+    <ContentPage.BindingContext>
+        <viewModels:RegistrarseViewModel />
+    </ContentPage.BindingContext>
+
+    <ScrollView>
+        <StackLayout Padding="20" Spacing="10">
+            <Label Text="CREANDO CUENTA EN SUPERMERCADO" FontSize="24" TextColor="White" FontAttributes="Bold" />
+
+            <Entry Placeholder="Nombre" Text="{Binding Nombre}" BackgroundColor="White" />
+            <Entry Placeholder="Apellido" Text="{Binding Apellido}" BackgroundColor="White" />
+            <Entry Placeholder="DNI" Text="{Binding Dni}" BackgroundColor="White" Keyboard="Numeric"/>
+            <Entry Placeholder="Email" Text="{Binding Mail}" BackgroundColor="White" Keyboard="Email" />
+            <Entry Placeholder="Email" Text="{Binding Telefonos}" BackgroundColor="White" Keyboard="Telephone" />
+            <Entry Placeholder="Contraseña" Text="{Binding Password}" BackgroundColor="White" IsPassword="True" />
+            <Entry Placeholder="Verificar Contraseña" Text="{Binding VerifyPassword}" BackgroundColor="White" IsPassword="True" />
+
+            <Button Text="Registrarse" Command="{Binding RegistrarseCommand}" BackgroundColor="White" TextColor="Black" />
+        </StackLayout>
+    </ScrollView>
+</ContentPage>

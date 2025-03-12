@@ -3,44 +3,28 @@
   "WorkspaceRootPath": "D:\\Supermercado\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B7E3794F-28F8-43D3-A42F-5C554AC210FE}|SupermercadoBackend\\SupermercadoBackend.csproj|d:\\supermercado\\supermercadobackend\\controllers\\ventascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B7E3794F-28F8-43D3-A42F-5C554AC210FE}|SupermercadoBackend\\SupermercadoBackend.csproj|solutionrelative:supermercadobackend\\controllers\\ventascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B7E3794F-28F8-43D3-A42F-5C554AC210FE}|SupermercadoBackend\\SupermercadoBackend.csproj|d:\\supermercado\\supermercadobackend\\controllers\\proveedorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B7E3794F-28F8-43D3-A42F-5C554AC210FE}|SupermercadoBackend\\SupermercadoBackend.csproj|solutionrelative:supermercadobackend\\controllers\\proveedorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B7E3794F-28F8-43D3-A42F-5C554AC210FE}|SupermercadoBackend\\SupermercadoBackend.csproj|d:\\supermercado\\supermercadobackend\\controllers\\productoescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B7E3794F-28F8-43D3-A42F-5C554AC210FE}|SupermercadoBackend\\SupermercadoBackend.csproj|solutionrelative:supermercadobackend\\controllers\\productoescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B7E3794F-28F8-43D3-A42F-5C554AC210FE}|SupermercadoBackend\\SupermercadoBackend.csproj|d:\\supermercado\\supermercadobackend\\controllers\\localidadscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B7E3794F-28F8-43D3-A42F-5C554AC210FE}|SupermercadoBackend\\SupermercadoBackend.csproj|solutionrelative:supermercadobackend\\controllers\\localidadscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B7E3794F-28F8-43D3-A42F-5C554AC210FE}|SupermercadoBackend\\SupermercadoBackend.csproj|d:\\supermercado\\supermercadobackend\\controllers\\detalleventascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B7E3794F-28F8-43D3-A42F-5C554AC210FE}|SupermercadoBackend\\SupermercadoBackend.csproj|solutionrelative:supermercadobackend\\controllers\\detalleventascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B7E3794F-28F8-43D3-A42F-5C554AC210FE}|SupermercadoBackend\\SupermercadoBackend.csproj|d:\\supermercado\\supermercadobackend\\controllers\\detallecomprascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B7E3794F-28F8-43D3-A42F-5C554AC210FE}|SupermercadoBackend\\SupermercadoBackend.csproj|solutionrelative:supermercadobackend\\controllers\\detallecomprascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B7E3794F-28F8-43D3-A42F-5C554AC210FE}|SupermercadoBackend\\SupermercadoBackend.csproj|d:\\supermercado\\supermercadobackend\\controllers\\comprascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B7E3794F-28F8-43D3-A42F-5C554AC210FE}|SupermercadoBackend\\SupermercadoBackend.csproj|solutionrelative:supermercadobackend\\controllers\\comprascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B7E3794F-28F8-43D3-A42F-5C554AC210FE}|SupermercadoBackend\\SupermercadoBackend.csproj|d:\\supermercado\\supermercadobackend\\controllers\\clientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B7E3794F-28F8-43D3-A42F-5C554AC210FE}|SupermercadoBackend\\SupermercadoBackend.csproj|solutionrelative:supermercadobackend\\controllers\\clientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B7E3794F-28F8-43D3-A42F-5C554AC210FE}|SupermercadoBackend\\SupermercadoBackend.csproj|d:\\supermercado\\supermercadobackend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{B7E3794F-28F8-43D3-A42F-5C554AC210FE}|SupermercadoBackend\\SupermercadoBackend.csproj|solutionrelative:supermercadobackend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{245416B9-276E-4F17-B6F9-872EB0CFC4D4}|SupermercadoServices\\SupermercadoServices.csproj|d:\\supermercado\\supermercadoservices\\properties\\resources.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
       "RelativeMoniker": "D:0:0:{245416B9-276E-4F17-B6F9-872EB0CFC4D4}|SupermercadoServices\\SupermercadoServices.csproj|solutionrelative:supermercadoservices\\properties\\resources.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E8DC73D-B602-461F-9557-514671DE0997}|SupermercadoApp\\SupermercadoApp.csproj|d:\\supermercado\\supermercadoapp\\views\\registrarseview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3E8DC73D-B602-461F-9557-514671DE0997}|SupermercadoApp\\SupermercadoApp.csproj|solutionrelative:supermercadoapp\\views\\registrarseview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E8DC73D-B602-461F-9557-514671DE0997}|SupermercadoApp\\SupermercadoApp.csproj|d:\\supermercado\\supermercadoapp\\viewmodels\\registrarseviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E8DC73D-B602-461F-9557-514671DE0997}|SupermercadoApp\\SupermercadoApp.csproj|solutionrelative:supermercadoapp\\viewmodels\\registrarseviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E8DC73D-B602-461F-9557-514671DE0997}|SupermercadoApp\\SupermercadoApp.csproj|d:\\supermercado\\supermercadoapp\\viewmodels\\iniciarsesionviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E8DC73D-B602-461F-9557-514671DE0997}|SupermercadoApp\\SupermercadoApp.csproj|solutionrelative:supermercadoapp\\viewmodels\\iniciarsesionviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E8DC73D-B602-461F-9557-514671DE0997}|SupermercadoApp\\SupermercadoApp.csproj|d:\\supermercado\\supermercadoapp\\views\\productosenofertaview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3E8DC73D-B602-461F-9557-514671DE0997}|SupermercadoApp\\SupermercadoApp.csproj|solutionrelative:supermercadoapp\\views\\productosenofertaview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E8DC73D-B602-461F-9557-514671DE0997}|SupermercadoApp\\SupermercadoApp.csproj|d:\\supermercado\\supermercadoapp\\viewmodels\\productosenofertaviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E8DC73D-B602-461F-9557-514671DE0997}|SupermercadoApp\\SupermercadoApp.csproj|solutionrelative:supermercadoapp\\viewmodels\\productosenofertaviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -95,130 +79,78 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "VentasController.cs",
-              "DocumentMoniker": "D:\\Supermercado\\SupermercadoBackend\\Controllers\\VentasController.cs",
-              "RelativeDocumentMoniker": "SupermercadoBackend\\Controllers\\VentasController.cs",
-              "ToolTip": "D:\\Supermercado\\SupermercadoBackend\\Controllers\\VentasController.cs",
-              "RelativeToolTip": "SupermercadoBackend\\Controllers\\VentasController.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAmwBEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-11T04:13:20.971Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ProveedorsController.cs",
-              "DocumentMoniker": "D:\\Supermercado\\SupermercadoBackend\\Controllers\\ProveedorsController.cs",
-              "RelativeDocumentMoniker": "SupermercadoBackend\\Controllers\\ProveedorsController.cs",
-              "ToolTip": "D:\\Supermercado\\SupermercadoBackend\\Controllers\\ProveedorsController.cs",
-              "RelativeToolTip": "SupermercadoBackend\\Controllers\\ProveedorsController.cs",
-              "ViewState": "AgIAABcAAAAAAAAAAAAIwBAAAAA2AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-11T04:12:57.628Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ProductoesController.cs",
-              "DocumentMoniker": "D:\\Supermercado\\SupermercadoBackend\\Controllers\\ProductoesController.cs",
-              "RelativeDocumentMoniker": "SupermercadoBackend\\Controllers\\ProductoesController.cs",
-              "ToolTip": "D:\\Supermercado\\SupermercadoBackend\\Controllers\\ProductoesController.cs",
-              "RelativeToolTip": "SupermercadoBackend\\Controllers\\ProductoesController.cs",
-              "ViewState": "AgIAABcAAAAAAAAAAAAIwA8AAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-11T04:12:30.963Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "LocalidadsController.cs",
-              "DocumentMoniker": "D:\\Supermercado\\SupermercadoBackend\\Controllers\\LocalidadsController.cs",
-              "RelativeDocumentMoniker": "SupermercadoBackend\\Controllers\\LocalidadsController.cs",
-              "ToolTip": "D:\\Supermercado\\SupermercadoBackend\\Controllers\\LocalidadsController.cs",
-              "RelativeToolTip": "SupermercadoBackend\\Controllers\\LocalidadsController.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAewA0AAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-11T04:12:00.745Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "DetalleVentasController.cs",
-              "DocumentMoniker": "D:\\Supermercado\\SupermercadoBackend\\Controllers\\DetalleVentasController.cs",
-              "RelativeDocumentMoniker": "SupermercadoBackend\\Controllers\\DetalleVentasController.cs",
-              "ToolTip": "D:\\Supermercado\\SupermercadoBackend\\Controllers\\DetalleVentasController.cs",
-              "RelativeToolTip": "SupermercadoBackend\\Controllers\\DetalleVentasController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA2AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-11T04:10:35.953Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "DetalleComprasController.cs",
-              "DocumentMoniker": "D:\\Supermercado\\SupermercadoBackend\\Controllers\\DetalleComprasController.cs",
-              "RelativeDocumentMoniker": "SupermercadoBackend\\Controllers\\DetalleComprasController.cs",
-              "ToolTip": "D:\\Supermercado\\SupermercadoBackend\\Controllers\\DetalleComprasController.cs",
-              "RelativeToolTip": "SupermercadoBackend\\Controllers\\DetalleComprasController.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAewA0AAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-11T04:10:08.658Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "ComprasController.cs",
-              "DocumentMoniker": "D:\\Supermercado\\SupermercadoBackend\\Controllers\\ComprasController.cs",
-              "RelativeDocumentMoniker": "SupermercadoBackend\\Controllers\\ComprasController.cs",
-              "ToolTip": "D:\\Supermercado\\SupermercadoBackend\\Controllers\\ComprasController.cs",
-              "RelativeToolTip": "SupermercadoBackend\\Controllers\\ComprasController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA0AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-11T04:08:45.554Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "ClientesController.cs",
-              "DocumentMoniker": "D:\\Supermercado\\SupermercadoBackend\\Controllers\\ClientesController.cs",
-              "RelativeDocumentMoniker": "SupermercadoBackend\\Controllers\\ClientesController.cs",
-              "ToolTip": "D:\\Supermercado\\SupermercadoBackend\\Controllers\\ClientesController.cs",
-              "RelativeToolTip": "SupermercadoBackend\\Controllers\\ClientesController.cs",
-              "ViewState": "AgIAAE0AAAAAAAAAAAAAwBEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-11T04:05:18.895Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\Supermercado\\SupermercadoBackend\\appsettings.json",
-              "RelativeDocumentMoniker": "SupermercadoBackend\\appsettings.json",
-              "ToolTip": "D:\\Supermercado\\SupermercadoBackend\\appsettings.json",
-              "RelativeToolTip": "SupermercadoBackend\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-03-11T04:01:07.014Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
               "Title": "Resources.resx",
               "DocumentMoniker": "D:\\Supermercado\\SupermercadoServices\\Properties\\Resources.resx",
               "RelativeDocumentMoniker": "SupermercadoServices\\Properties\\Resources.resx",
               "ToolTip": "D:\\Supermercado\\SupermercadoServices\\Properties\\Resources.resx",
               "RelativeToolTip": "SupermercadoServices\\Properties\\Resources.resx",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
-              "WhenOpened": "2025-03-11T04:01:04.581Z",
+              "WhenOpened": "2025-03-12T09:02:08.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RegistrarseViewModel.cs",
+              "DocumentMoniker": "D:\\Supermercado\\SupermercadoApp\\ViewModels\\RegistrarseViewModel.cs",
+              "RelativeDocumentMoniker": "SupermercadoApp\\ViewModels\\RegistrarseViewModel.cs",
+              "ToolTip": "D:\\Supermercado\\SupermercadoApp\\ViewModels\\RegistrarseViewModel.cs",
+              "RelativeToolTip": "SupermercadoApp\\ViewModels\\RegistrarseViewModel.cs",
+              "ViewState": "AgIAAFkAAAAAAAAAAAAwwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T09:00:53.32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IniciarSesionViewModel.cs",
+              "DocumentMoniker": "D:\\Supermercado\\SupermercadoApp\\ViewModels\\IniciarSesionViewModel.cs",
+              "RelativeDocumentMoniker": "SupermercadoApp\\ViewModels\\IniciarSesionViewModel.cs",
+              "ToolTip": "D:\\Supermercado\\SupermercadoApp\\ViewModels\\IniciarSesionViewModel.cs",
+              "RelativeToolTip": "SupermercadoApp\\ViewModels\\IniciarSesionViewModel.cs",
+              "ViewState": "AgIAAGYAAAAAAAAAAAAYwHAAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T08:30:55.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RegistrarseView.xaml",
+              "DocumentMoniker": "D:\\Supermercado\\SupermercadoApp\\Views\\RegistrarseView.xaml",
+              "RelativeDocumentMoniker": "SupermercadoApp\\Views\\RegistrarseView.xaml",
+              "ToolTip": "D:\\Supermercado\\SupermercadoApp\\Views\\RegistrarseView.xaml",
+              "RelativeToolTip": "SupermercadoApp\\Views\\RegistrarseView.xaml",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAUwBYAAAB6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-12T08:49:47.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductosEnOfertaView.xaml",
+              "DocumentMoniker": "D:\\Supermercado\\SupermercadoApp\\Views\\ProductosEnOfertaView.xaml",
+              "RelativeDocumentMoniker": "SupermercadoApp\\Views\\ProductosEnOfertaView.xaml",
+              "ToolTip": "D:\\Supermercado\\SupermercadoApp\\Views\\ProductosEnOfertaView.xaml",
+              "RelativeToolTip": "SupermercadoApp\\Views\\ProductosEnOfertaView.xaml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-12T08:31:04.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductosEnOfertaViewModel.cs",
+              "DocumentMoniker": "D:\\Supermercado\\SupermercadoApp\\ViewModels\\ProductosEnOfertaViewModel.cs",
+              "RelativeDocumentMoniker": "SupermercadoApp\\ViewModels\\ProductosEnOfertaViewModel.cs",
+              "ToolTip": "D:\\Supermercado\\SupermercadoApp\\ViewModels\\ProductosEnOfertaViewModel.cs",
+              "RelativeToolTip": "SupermercadoApp\\ViewModels\\ProductosEnOfertaViewModel.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAwwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T08:30:55.402Z",
               "EditorCaption": ""
             }
           ]

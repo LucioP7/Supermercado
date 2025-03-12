@@ -39,6 +39,10 @@ namespace SupermercadoBackend.Migrations
                     b.Property<DateTime>("FechaNacimiento")
                         .HasColumnType("datetime(6)");
 
+                    b.Property<string>("FirebaseUid")
+                        .IsRequired()
+                        .HasColumnType("longtext");
+
                     b.Property<int?>("LocalidadId")
                         .IsRequired()
                         .HasColumnType("int");
@@ -68,6 +72,7 @@ namespace SupermercadoBackend.Migrations
                             DNI = "44064814",
                             Eliminado = false,
                             FechaNacimiento = new DateTime(1985, 5, 15, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            FirebaseUid = "123456789",
                             LocalidadId = 1,
                             Nombre = "Juan",
                             PuntosFidelizacion = 100,
@@ -80,6 +85,7 @@ namespace SupermercadoBackend.Migrations
                             DNI = "44064815",
                             Eliminado = false,
                             FechaNacimiento = new DateTime(1986, 5, 15, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            FirebaseUid = "123456789",
                             LocalidadId = 2,
                             Nombre = "Pedro",
                             PuntosFidelizacion = 200,
@@ -92,6 +98,7 @@ namespace SupermercadoBackend.Migrations
                             DNI = "44064816",
                             Eliminado = false,
                             FechaNacimiento = new DateTime(1987, 5, 15, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            FirebaseUid = "123456789",
                             LocalidadId = 3,
                             Nombre = "María",
                             PuntosFidelizacion = 300,
@@ -104,6 +111,7 @@ namespace SupermercadoBackend.Migrations
                             DNI = "44064817",
                             Eliminado = false,
                             FechaNacimiento = new DateTime(1988, 5, 15, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            FirebaseUid = "123456789",
                             LocalidadId = 1,
                             Nombre = "José",
                             PuntosFidelizacion = 400,
@@ -116,6 +124,7 @@ namespace SupermercadoBackend.Migrations
                             DNI = "44064818",
                             Eliminado = false,
                             FechaNacimiento = new DateTime(1989, 5, 15, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            FirebaseUid = "123456789",
                             LocalidadId = 2,
                             Nombre = "Ana",
                             PuntosFidelizacion = 500,
@@ -128,6 +137,7 @@ namespace SupermercadoBackend.Migrations
                             DNI = "44064819",
                             Eliminado = false,
                             FechaNacimiento = new DateTime(1990, 5, 15, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            FirebaseUid = "123456789",
                             LocalidadId = 3,
                             Nombre = "Carlos",
                             PuntosFidelizacion = 600,
@@ -368,6 +378,9 @@ namespace SupermercadoBackend.Migrations
                         .ValueGeneratedOnAdd()
                         .HasColumnType("int");
 
+                    b.Property<bool>("DisponibleConPuntos")
+                        .HasColumnType("tinyint(1)");
+
                     b.Property<bool>("Eliminado")
                         .HasColumnType("tinyint(1)");
 
@@ -389,6 +402,7 @@ namespace SupermercadoBackend.Migrations
                         new
                         {
                             Id = 1,
+                            DisponibleConPuntos = true,
                             Eliminado = false,
                             Nombre = "Coca Cola 2lts",
                             Oferta = false,
@@ -397,6 +411,7 @@ namespace SupermercadoBackend.Migrations
                         new
                         {
                             Id = 2,
+                            DisponibleConPuntos = false,
                             Eliminado = false,
                             Nombre = "Sprite 2lts",
                             Oferta = false,
@@ -405,6 +420,7 @@ namespace SupermercadoBackend.Migrations
                         new
                         {
                             Id = 3,
+                            DisponibleConPuntos = false,
                             Eliminado = false,
                             Nombre = "Fanta 2lts",
                             Oferta = false,
@@ -598,7 +614,7 @@ namespace SupermercadoBackend.Migrations
                             Id = 1,
                             ClienteId = 1,
                             Eliminado = false,
-                            Fecha = new DateTime(2025, 3, 11, 0, 36, 47, 969, DateTimeKind.Local).AddTicks(8869),
+                            Fecha = new DateTime(2025, 3, 12, 5, 41, 50, 436, DateTimeKind.Local).AddTicks(2989),
                             FormaPago = 0,
                             Iva = 21m,
                             Total = 3000m
@@ -608,7 +624,7 @@ namespace SupermercadoBackend.Migrations
                             Id = 2,
                             ClienteId = 2,
                             Eliminado = false,
-                            Fecha = new DateTime(2025, 3, 11, 0, 36, 47, 969, DateTimeKind.Local).AddTicks(8885),
+                            Fecha = new DateTime(2025, 3, 12, 5, 41, 50, 436, DateTimeKind.Local).AddTicks(3004),
                             FormaPago = 1,
                             Iva = 10m,
                             Total = 5000m
@@ -618,7 +634,7 @@ namespace SupermercadoBackend.Migrations
                             Id = 3,
                             ClienteId = 1,
                             Eliminado = false,
-                            Fecha = new DateTime(2025, 3, 11, 0, 36, 47, 969, DateTimeKind.Local).AddTicks(8887),
+                            Fecha = new DateTime(2025, 3, 12, 5, 41, 50, 436, DateTimeKind.Local).AddTicks(3006),
                             FormaPago = 2,
                             Iva = 21m,
                             Total = 8000m

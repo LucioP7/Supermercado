@@ -31,6 +31,8 @@ public partial class Cliente
 
     public bool Eliminado { get; set; } = false;
 
+    [Required]
+    public string FirebaseUid { get; set; } = null!;
 
     public override string ToString()
     {

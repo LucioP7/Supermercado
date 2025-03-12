@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:viewModels="clr-namespace:SupermercadoApp.ViewModels"
+             x:Class="SupermercadoApp.Views.IniciarSesionView"
+             BackgroundColor="Red">
+    <ContentPage.BindingContext>
+        <viewModels:IniciarSesionViewModel />
+    </ContentPage.BindingContext>
+
+    <ScrollView>
+        <StackLayout Padding="20" HorizontalOptions="Center" VerticalOptions="Center">
+            <Image Source="logo.png" HeightRequest="150" Aspect="AspectFit" />
+            <Label Text="INICIO DE SESIÓN EN SUPERMERCADO" FontSize="24" TextColor="White" FontAttributes="Bold" />
+            <Entry Placeholder="Email" Text="{Binding Mail}" BackgroundColor="White" />
+            <Entry Placeholder="Contraseña" Text="{Binding Password}" BackgroundColor="White" IsPassword="True" />
+            <CheckBox IsChecked="{Binding RecordarContraseña}" />
+            <Label Text="Recordar contraseña" TextColor="White" />
+            <StackLayout Orientation="Horizontal" Spacing="10" HorizontalOptions="Center">
+                <Button Text="Iniciar sesión" Command="{Binding IniciarSesionCommand}" BackgroundColor="White" TextColor="Black" />
+                <Button Text="Registrarse" Command="{Binding RegistrarseCommand}" BackgroundColor="White" TextColor="Black" />
+            </StackLayout>
+        </StackLayout>
+    </ScrollView>
+</ContentPage>

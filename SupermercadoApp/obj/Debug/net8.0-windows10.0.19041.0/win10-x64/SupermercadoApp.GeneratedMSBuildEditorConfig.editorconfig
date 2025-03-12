@@ -1,4 +1,11 @@
 is_global = true
+build_property.MvvmToolkitEnableINotifyPropertyChangingSupport = true
+build_property._MvvmToolkitIsUsingWindowsRuntimePack = true
+build_property.CsWinRTComponent = 
+build_property.CsWinRTAotOptimizerEnabled = true
+build_property.CsWinRTAotOptimizerEnabled = true
+build_property.CsWinRTAotWarningLevel = 
+build_property.CsWinRTAotWarningLevel = 
 build_property.TargetFramework = net8.0-windows10.0.19041.0
 build_property.TargetPlatformMinVersion = 10.0.17763.0
 build_property.UsingMicrosoftNETSdkWeb = 
@@ -11,13 +18,11 @@ build_property.RootNamespace = SupermercadoApp
 build_property.ProjectDir = D:\Supermercado\SupermercadoApp\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
-build_property.CsWinRTAotOptimizerEnabled = true
 build_property.CsWinRTAotExportsEnabled = 
 build_property.CsWinRTRcwFactoryFallbackGeneratorForceOptIn = 
 build_property.CsWinRTRcwFactoryFallbackGeneratorForceOptOut = 
 build_property.CsWinRTCcwLookupTableGeneratorEnabled = true
 build_property.CsWinRTMergeReferencedActivationFactories = 
-build_property.CsWinRTAotWarningLevel = 
 build_property.CsWinRTUseWindowsUIXamlProjections = false
 build_property.EffectiveAnalysisLevelStyle = 8.0
 build_property.EnableCodeStyleSeverity = 
@@ -33,6 +38,18 @@ build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = SupermercadoApp.AppShell.xaml
 build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
 build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
+
+[D:/Supermercado/SupermercadoApp/ContentViews/FlyoutFooter.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = SupermercadoApp.ContentViews.FlyoutFooter.xaml
+build_metadata.AdditionalFiles.TargetPath = ContentViews\FlyoutFooter.xaml
+build_metadata.AdditionalFiles.RelativePath = ContentViews\FlyoutFooter.xaml
+
+[D:/Supermercado/SupermercadoApp/ContentViews/FlyoutHeader.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = SupermercadoApp.ContentViews.FlyoutHeader.xaml
+build_metadata.AdditionalFiles.TargetPath = ContentViews\FlyoutHeader.xaml
+build_metadata.AdditionalFiles.RelativePath = ContentViews\FlyoutHeader.xaml
 
 [D:/Supermercado/SupermercadoApp/MainPage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
@@ -51,3 +68,33 @@ build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = SupermercadoApp.Resources.Styles.Styles.xaml
 build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml
 build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Styles.xaml
+
+[D:/Supermercado/SupermercadoApp/Views/AddEditProductoView.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = SupermercadoApp.Views.AddEditProductoView.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\AddEditProductoView.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\AddEditProductoView.xaml
+
+[D:/Supermercado/SupermercadoApp/Views/IniciarSesionView.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = SupermercadoApp.Views.IniciarSesionView.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\IniciarSesionView.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\IniciarSesionView.xaml
+
+[D:/Supermercado/SupermercadoApp/Views/ProductosEnOfertaView.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = SupermercadoApp.Views.ProductosEnOfertaView.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\ProductosEnOfertaView.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\ProductosEnOfertaView.xaml
+
+[D:/Supermercado/SupermercadoApp/Views/ProductosView.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = SupermercadoApp.Views.ProductosView.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\ProductosView.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\ProductosView.xaml
+
+[D:/Supermercado/SupermercadoApp/Views/RegistrarseView.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = SupermercadoApp.Views.RegistrarseView.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\RegistrarseView.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\RegistrarseView.xaml

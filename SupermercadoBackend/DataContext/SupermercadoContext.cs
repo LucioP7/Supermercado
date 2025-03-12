@@ -55,7 +55,7 @@ public partial class SupermercadoContext : DbContext
         #region datos semilla
         //carga de datos semilla Productos
         modelBuilder.Entity<Producto>().HasData(
-            new Producto() { Id = 1, Nombre = "Coca Cola 2lts", Precio = 2650 },
+            new Producto() { Id = 1, Nombre = "Coca Cola 2lts", Precio = 2650, DisponibleConPuntos = true },
             new Producto() { Id = 2, Nombre = "Sprite 2lts", Precio = 2450 },
             new Producto() { Id = 3, Nombre = "Fanta 2lts", Precio = 2550 }
             );
@@ -76,7 +76,8 @@ public partial class SupermercadoContext : DbContext
             Telefonos = "123456789",
             PuntosFidelizacion = 100,
             FechaNacimiento = new DateTime(1985, 5, 15),
-            LocalidadId = 1
+            LocalidadId = 1,
+            FirebaseUid = "123456789"
         },
         new Cliente
         {
@@ -87,7 +88,8 @@ public partial class SupermercadoContext : DbContext
             Telefonos = "123456789",
             PuntosFidelizacion = 200,
             FechaNacimiento = new DateTime(1986, 5, 15),
-            LocalidadId = 2
+            LocalidadId = 2,
+            FirebaseUid = "123456789"
         },
         new Cliente
         {
@@ -98,7 +100,8 @@ public partial class SupermercadoContext : DbContext
             Telefonos = "123456789",
             PuntosFidelizacion = 300,
             FechaNacimiento = new DateTime(1987, 5, 15),
-            LocalidadId = 3
+            LocalidadId = 3,
+            FirebaseUid = "123456789"
         },
         new Cliente
         {
@@ -109,7 +112,8 @@ public partial class SupermercadoContext : DbContext
             Telefonos = "123456789",
             PuntosFidelizacion = 400,
             FechaNacimiento = new DateTime(1988, 5, 15),
-            LocalidadId = 1
+            LocalidadId = 1,
+            FirebaseUid = "123456789"
         },
         new Cliente
         {
@@ -120,7 +124,8 @@ public partial class SupermercadoContext : DbContext
             Telefonos = "123456789",
             PuntosFidelizacion = 500,
             FechaNacimiento = new DateTime(1989, 5, 15),
-            LocalidadId = 2
+            LocalidadId = 2,
+            FirebaseUid = "123456789"
         },
         new Cliente
         {
@@ -131,7 +136,8 @@ public partial class SupermercadoContext : DbContext
             Telefonos = "123456789",
             PuntosFidelizacion = 600,
             FechaNacimiento = new DateTime(1990, 5, 15),
-            LocalidadId = 3
+            LocalidadId = 3,
+            FirebaseUid = "123456789"
         }
         );
         //Carga de datos semillas de ventas
