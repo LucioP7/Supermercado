@@ -27,7 +27,6 @@
                     SelectedItem="{Binding LocalidadSeleccionada}" />
 
             <Button Text="Registrarse" Command="{Binding RegistrarseCommand}" BackgroundColor="White" TextColor="Black" />
-            <Button Text="Volver" Clicked="OnBackClicked" BackgroundColor="White" TextColor="Black" />
         </StackLayout>
     </ScrollView>
 </ContentPage>

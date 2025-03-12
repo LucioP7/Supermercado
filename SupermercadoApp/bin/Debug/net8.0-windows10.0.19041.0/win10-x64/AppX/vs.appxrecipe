@@ -29,7 +29,7 @@
     <AppXManifest Include="D:\Supermercado\SupermercadoApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2025-03-12T09:02:02.037</Modified>
+      <Modified>2025-03-12T09:16:12.096</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
@@ -43,11 +43,11 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Supermercado\SupermercadoApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\SupermercadoApp.dll">
       <PackagePath>SupermercadoApp.dll</PackagePath>
-      <Modified>2025-03-12T09:02:01.300</Modified>
+      <Modified>2025-03-12T09:16:11.582</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Supermercado\SupermercadoApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\apphost.exe">
       <PackagePath>SupermercadoApp.exe</PackagePath>
-      <Modified>2025-03-12T09:02:01.307</Modified>
+      <Modified>2025-03-12T09:16:11.587</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Supermercado\SupermercadoApp\Resources\Raw\AboutAssets.txt">
       <PackagePath>AboutAssets.txt</PackagePath>
@@ -635,7 +635,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Supermercado\SupermercadoServices\bin\Debug\net8.0\SupermercadoServices.dll">
       <PackagePath>SupermercadoServices.dll</PackagePath>
-      <Modified>2025-03-12T09:02:24.815</Modified>
+      <Modified>2025-03-12T09:16:04.921</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\alera\.nuget\packages\microsoft.maui.controls.compatibility\8.0.100\lib\net8.0-windows10.0.19041\Microsoft.Maui.Controls.Compatibility.pri">
       <PackagePath>Microsoft.Maui.Controls.Compatibility.pri</PackagePath>

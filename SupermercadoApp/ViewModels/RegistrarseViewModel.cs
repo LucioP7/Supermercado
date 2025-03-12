@@ -54,15 +54,30 @@ namespace SupermercadoApp.ViewModels
 
         private async void CargarLocalidades()
         {
-            var lista = await _localidadService.ObtenerTodasLocalidadesAsync();
-            if (lista != null)
+            try
             {
-                foreach (var localidad in lista)
+                var lista = await _localidadService.GetAllAsync();
+
+                if (lista != null && lista.Any())
                 {
-                    Localidades.Add(localidad);
+                    Localidades.Clear();
+                    foreach (var localidad in lista)
+                    {
+                        Localidades.Add(localidad);
+                        Console.WriteLine($"Localidad cargada: {localidad.Nombre}"); // 👀 Verifica en la consola
+                    }
+                }
+                else
+                {
+                    Console.WriteLine("⚠️ No se encontraron localidades."); // Mensaje si la lista está vacía
                 }
             }
+            catch (Exception ex)
+            {
+                Console.WriteLine($"❌ Error al cargar localidades: {ex.Message}");
+            }
         }
+
 
         private async void Registrarse()
         {
